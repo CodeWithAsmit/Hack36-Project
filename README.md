@@ -13,11 +13,7 @@
  3) MongoDB
  4) EJS
  
- Team Name: Code Harpers
- 
-* [Asmit mohan](https://github.com/Asmit-Mohan)
-* [Ritvik Raj](https://github.com/ashu12chi)
-* [Krishanu dev](https://github.com/kd1995-max)
+Team Name: Code Harpers
 
 ### Made at:
 <a href="https://hack36.com"> <img src="https://cutt.ly/BuiltAtHack36" height=24px> </a>
